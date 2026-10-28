@@ -50,3 +50,9 @@ Random Forest performed best among the three models tested.
 Random Forest achieved the best results among the tested models on the test dataset.
 
 The model was saved and successfully loaded to verify that it reproduced the original predictions. However, some predictions may still have large errors, so the estimates are not guaranteed selling prices.
+
+## How to Run
+
+1. Install the required libraries using `pip install -r requirements.txt`.
+2. Open the Jupyter notebook.
+3. Run the cells from top to bottom to reproduce the analysis and model training.
